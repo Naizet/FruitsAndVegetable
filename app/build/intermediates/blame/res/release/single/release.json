@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_android_login_checkbox_new.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\android_login_checkbox_new.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_nvku.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_nvku.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg1.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_mark_shoufa.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\ic_mark_shoufa.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_reme_home_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\reme_home_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_buy_now.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\buy_now.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_login.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_background.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\menu_background.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_zhenzhishan.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\zhenzhishan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_profile_refresh_site_icon.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\profile_refresh_site_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_gouwu_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_gouwu_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_gouwuche_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\gouwuche_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_star2.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\star2.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shopping_cart_product_num_edit_pressed.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shopping_cart_product_num_edit_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_nanzxie.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_nanzxie.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_fenlei_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\fenlei_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_img_home_banner1.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\img_home_banner1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_android_login_checkbox_pressed_new.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\android_login_checkbox_pressed_new.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_nanzhuang.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_nanzhuang.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bottom_bar_home_selected.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_nvxie.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\nvxie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_star1.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\star1.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_nanxie.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\nanxie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_fenlei_view_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\fenlei_view_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_item_a.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\item_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_detail_fav_light.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\detail_fav_light.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shopping_cart_product_num_reduce.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shopping_cart_product_num_reduce.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_home_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\home_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_qianbiku.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\qianbiku.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shopping_cart_product_num_reduce_pressed.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shopping_cart_product_num_reduce_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bottom_bar_home.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar_home.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_leftmenu_btn_selector.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\leftmenu_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_put_in.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\put_in.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_you.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\you.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_zhongtongxue.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\zhongtongxue.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_star0.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\star0.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_leftmenu_btn.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\leftmenu_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_nvxie.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_nvxie.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_residemenu_item.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_xiangqing.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_xiangqing.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_img_home_banner3.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\img_home_banner3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_item_c.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\item_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_img_home_banner6.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\img_home_banner6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_new_drawer_right.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\new_drawer_right.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_anniu.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\anniu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_nanku.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_nanku.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_detail_fav_light_gray.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\detail_fav_light_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_heiyurongfu.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\heiyurongfu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_dot.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\selector_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_star3.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\star3.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_cufang.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\cufang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bottom_bar_cart_selected.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar_cart_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_star5.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\star5.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_tabhost.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\fragment_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_mark_tuijian.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\ic_mark_tuijian.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_img_home_banner5.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\img_home_banner5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shopping_cart_product_num_edit.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shopping_cart_product_num_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shadow.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_mark_dujia.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\ic_mark_dujia.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_img_3.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\img_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tf_setting_icon.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\tf_setting_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_star4.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\star4.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_mark_remen.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\ic_mark_remen.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shopping_cart_product_num_reduce_disable.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shopping_cart_product_num_reduce_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_dot_focus.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\dot_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_leftmenu_btn_press.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\leftmenu_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_nanniuzai.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\nanniuzai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_nvniuzai.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\nvniuzai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_aty_fenlei_nvzhuang.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\aty_fenlei_nvzhuang.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_img_2.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\img_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_residemenu.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logo_menu_normal.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\logo_menu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_sou_itme.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\sou_itme.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_img_home_banner7.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\img_home_banner7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shopping_cart_product_num_add_pressed.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\shopping_cart_product_num_add_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\anim_outdowntoup.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\anim\\outdowntoup.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_img_1.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\img_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_jshop_searchbar_search.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\jshop_searchbar_search.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_weiyi.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\weiyi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tb_icon_actionbar_more.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\tb_icon_actionbar_more.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_baitiao.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\baitiao.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_residemenu_info.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\residemenu_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_heipixue.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\heipixue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_item_b.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\item_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search_box.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\search_box.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\layout_adapter_ad.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\layout\\adapter_ad.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bottom_bar_cart.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\anim_inuptodown.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\anim\\inuptodown.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_second_2.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\second_2.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_second_2_collection.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\second_2_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bottom_bar_category.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar_category.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bottom_bar_category_selected.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar_category_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_img_home_banner2.jpg.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-xhdpi\\img_home_banner2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable_dot_unfocus.xml.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable\\dot_unfocus.xml"
+    },
+    {
+        "merged": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_huitiao.png.flat",
+        "source": "C:\\Users\\yunfugui\\AndroidStudioProjects\\FV\\app\\src\\main\\res\\drawable-hdpi\\huitiao.png"
+    }
+]

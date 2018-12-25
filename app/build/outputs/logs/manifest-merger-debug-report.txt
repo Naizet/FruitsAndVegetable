@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fresco:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\fresco-0.11.0.aar\8065308ebf94270627522ae0b9725937\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.fresco:drawee:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\drawee-0.11.0.aar\9d195e11076979101fd16e9cffcd1cf9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.11.0.aar\6073e5b1de695ac380aa9d96894f3039\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.11.0.aar\a178a5ad7f447e4156a70786b1f88e0b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fbcore:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\fbcore-0.11.0.aar\e644ac678d35572093b43a186cec5c0c\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:9:5-96
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:16:9-62
+activity#com.bishe.FV.MainActivity
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:18:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:20:14-24:29
+action#android.intent.action.MAIN
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.bishe.FV.function.Search
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:26:9-74
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:26:19-62
+activity#com.bishe.FV.function.Home
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:27:9-29:20
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:27:19-60
+activity#com.bishe.FV.function.Type
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:30:9-72
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:30:19-60
+activity#com.bishe.FV.function.Shopping
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:31:9-76
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:31:19-64
+activity#com.bishe.FV.function.Login
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:32:9-73
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:32:19-61
+activity#com.bishe.FV.function.MoreMsg
+ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:33:9-75
+	android:name
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml:33:19-63
+uses-sdk
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:21:5-23:78
+MERGED from [com.facebook.fresco:fresco:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\fresco-0.11.0.aar\8065308ebf94270627522ae0b9725937\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\fresco-0.11.0.aar\8065308ebf94270627522ae0b9725937\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\drawee-0.11.0.aar\9d195e11076979101fd16e9cffcd1cf9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\drawee-0.11.0.aar\9d195e11076979101fd16e9cffcd1cf9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.11.0.aar\6073e5b1de695ac380aa9d96894f3039\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.11.0.aar\6073e5b1de695ac380aa9d96894f3039\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.11.0.aar\a178a5ad7f447e4156a70786b1f88e0b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.11.0.aar\a178a5ad7f447e4156a70786b1f88e0b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:fbcore:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\fbcore-0.11.0.aar\e644ac678d35572093b43a186cec5c0c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\fbcore-0.11.0.aar\e644ac678d35572093b43a186cec5c0c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		ADDED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paopao\Graduate\FV-demo1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\242b35d2602200dce87a1c0a31647134\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6f717c98d83c0494469ce6045c512131\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\59f4972f59aa0a7e8e5236c1ee79f427\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\86979d4461f6094f59c8652c2803954d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b321cb87d807017da7accb52d8355fc7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\467648f41da6d2041efc45b41e91088b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c906faca7cdb04d509498c4420df8275\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\45d84e0e59e1bb1e5abf6107f1fb155a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\345dfae683269f4ca7a30556b24f6214\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\yunfugui\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0dc63f92fec0d03f0662ac15e88191a5\AndroidManifest.xml:26:13-58

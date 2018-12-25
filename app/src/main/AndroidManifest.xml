@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bishe.FV"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+    <!--<uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"></uses-permission>-->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        <activity
+            android:name="com.bishe.FV.MainActivity"
+            android:label="@string/app_name" >
+             <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bishe.FV.function.Search"></activity>
+        <activity android:name="com.bishe.FV.function.Home">
+           
+        </activity>
+        <activity android:name="com.bishe.FV.function.Type"></activity>
+        <activity android:name="com.bishe.FV.function.Shopping"></activity>
+        <activity android:name="com.bishe.FV.function.Login"></activity>
+        <activity android:name="com.bishe.FV.function.MoreMsg"></activity>
+        <!--<activity android:name="com.bishe.FV.aty.fenlei.AtyNanKu"></activity>-->
+        <!--<activity android:name="com.bishe.FV.aty.fenlei.AtyNanXie"></activity>-->
+        <!--<activity android:name="com.bishe.FV.aty.fenlei.AtyNanZhuang"></activity>-->
+        <!--<activity android:name="com.bishe.FV.aty.fenlei.AtyNvKu"></activity>-->
+        <!--<activity android:name="com.bishe.FV.aty.fenlei.AtyNvXie"></activity>-->
+        <!--<activity android:name="com.bishe.FV.aty.fenlei.AtyNvZhuang"></activity>-->
+    </application>
+
+</manifest>
